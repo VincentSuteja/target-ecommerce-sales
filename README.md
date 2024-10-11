@@ -1,6 +1,6 @@
 # Target E-Commerce Sales
 ## Data Source
-[https://www.kaggle.com/datasets/devarajv88/target-dataset]
+https://www.kaggle.com/datasets/devarajv88/target-dataset
 
 ## Objectives
 Exploratory Data Analysis (EDA) is performed on the Target E-Commerce data to discover interesting insights
